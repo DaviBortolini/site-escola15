@@ -1,5 +1,5 @@
 .cabecalho {
-    background-color: #383D58;
+    background-color: #000000;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -20,4 +20,7 @@
 * {
     margin: 0;
     padding: 0;
+}
+.fundo{
+    background-color: #F30000;
 }
